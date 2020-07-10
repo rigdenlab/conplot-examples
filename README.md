@@ -1,2 +1,2 @@
-# conplot-examples
-Example files for ConPlot
+# ConPlot Examples
+This repository contains example files used during ConPlot tutorials
